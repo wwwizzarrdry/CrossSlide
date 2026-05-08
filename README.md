@@ -13,13 +13,6 @@
 
 <h1>CrossSlide</h1>
 <em>A jQuery plugin to create pan and cross-fade animations</em>
-
-<p class=menu>
-<a href='http://github.com/tobia/CrossSlide'>Project page</a> –
-<a href='http://github.com/tobia/CrossSlide/raw/master/jquery.cross-slide.min.js'><b>Download minified</b></a> –
-<a href='http://github.com/tobia/CrossSlide/raw/master/jquery.cross-slide.js'>Download source</a> –
-<a href="../../../../Desktop/PPi%20iphone%20DynHTML/crossSlide/email.html">Bugs, feature requests and support</a>
-</p>
 <hr>
 
 <p>CrossSlide is a <a href='http://jquery.com/'>jQuery</a> plugin implementing
