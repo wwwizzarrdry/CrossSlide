@@ -341,7 +341,7 @@ see clearly if you are keeping an eye on the Error Console.</p></li>
 <hr style="clear:both">
 
 <p class=footer>
-<a name=note1 href=#use1>1</a>: minified and gzipped, code only.<br></p>
+<a name=note1 href=#https://github.com/wwwizzarrdry/CrossSlide/archive/refs/heads/main.zip>zipped code</a><br></p>
 
 <p class=footer>
 Credits go to
