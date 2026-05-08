@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
-  <link rel='stylesheet' href="style.css">
+  <link rel='stylesheet' href="https://github.com/wwwizzarrdry/CrossSlide/blob/main/style.css">
 </head>
 <body>
 <div class=body>
