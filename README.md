@@ -3,9 +3,6 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
-  <title>CrossSlide</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta name="google-site-verification" content="51fRdx-2ED6h7sM165D6xFt80WIlp0c4vc24M8vUcQ8">
   <link rel='stylesheet' href="style.css">
 </head>
 <body>
