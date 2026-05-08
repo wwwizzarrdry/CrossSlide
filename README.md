@@ -350,13 +350,5 @@ for the nice summer pictures.</p>
 
 </div>
 
-<script src="jquery-1.8.3.min.js"></script>
-<script src='jquery.easing.min.js'></script>
-<script src='jquery.pause.min.js'></script>
-<script src='jquery.cross-slide.min.js'></script>
-<script src="Script.js"></script>
-
-
-
 </body>
 </html>
